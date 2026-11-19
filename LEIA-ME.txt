@@ -1,0 +1,7 @@
+SQUADMODS - PRIMEIRA VERSAO
+
+1. O arquivo principal do site e index.html.
+2. Para publicar sem GitHub, use o Cloudflare Pages por Direct Upload (upload de arquivos).
+3. Envie o arquivo ZIP do projeto ou a pasta, conforme a tela de upload oferecer.
+4. Este primeiro prototipo ainda nao tem cadastro, pagamentos ou downloads ativos.
+5. Adicione apenas arquivos que voce criou ou tem permissao para distribuir.
